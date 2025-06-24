@@ -22,7 +22,7 @@ A modern and responsive **Online Payment Page** built using HTML, CSS, and JavaS
 
 ## 🖼️ Preview
 
-![Preview Screenshot](https://user-images.githubusercontent.com/yourusername/yourproject/preview.png)
+<img width="833" alt="preview" src="https://github.com/user-attachments/assets/ac7ea15f-c70b-403d-b78e-ba2d1c779829" />
 
 ---
 
