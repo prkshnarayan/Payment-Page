@@ -1,17 +1,19 @@
-# 💳 Online Payment Page #
+# 💳 Online Payment Page
 
-A modern and responsive **Online Payment Page** built using HTML, CSS, and JavaScript. This project demonstrates a clean and interactive UI for accepting payments via **Credit/Debit Card** or **UPI**, with form validation and dynamic content toggling.
+A modern and responsive Online Payment Page built using **HTML**, **CSS**, and **JavaScript**. This project demonstrates a clean and interactive UI for accepting payments via **Credit/Debit Card** or **UPI**, with form validation and dynamic content toggling.
+
+---
 
 ## 🌟 Features
 
-- 💼 Billing Address section
-- 💳 Card Payment section
+- 💼 **Billing Address** section
+- 💳 **Card Payment** section:
   - Name on Card
   - Card Number, Expiry, CVV
   - Accepted card image
-- 📱 UPI Payment section
+- 📱 **UPI Payment** section:
   - UPI ID input
-  - Supported UPI Apps display
+  - Supported UPI apps display
   - QR Code for scanning
 - 🔘 Toggle between Card and UPI payments
 - 🎨 Modern styling with hover effects
@@ -26,20 +28,26 @@ A modern and responsive **Online Payment Page** built using HTML, CSS, and JavaS
 
 ---
 
-##🛠️ Technologies Used 
+## 🛠️ Technologies Used
 
-- HTML5 – Structure & semantics
-- CSS3 – Styling and responsive layout
-- JavaScript – DOM manipulation for payment toggle
+- **HTML5** – Structure & semantics  
+- **CSS3** – Styling and responsive layout  
+- **JavaScript** – DOM manipulation for payment toggle  
 
-##✨ Future Improvements#
+---
 
-✅ Form submission with real backend (Django/Flask/Node)
-✅ Razorpay/Stripe/Paytm integration
-✅ Form validation & error handling
-✅ Dark mode theme
+## ✨ Future Improvements
 
-##🤝 Contributing#
-Contributions are welcome! Fork this repo, make your changes, and open a pull request.
+- ✅ Form submission with real backend (Django / Flask / Node)
+- ✅ Razorpay / Stripe / Paytm integration
+- ✅ Advanced form validation & error handling
+- ✅ Dark mode theme
 
+---
 
+## 🤝 Contributing
+
+Contributions are welcome!  
+Fork this repo, make your changes, and open a pull request.
+
+---
