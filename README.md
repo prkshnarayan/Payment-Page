@@ -26,4 +26,20 @@ A modern and responsive **Online Payment Page** built using HTML, CSS, and JavaS
 
 ---
 
+#🛠️ Technologies Used #
+
+- HTML5 – Structure & semantics
+- CSS3 – Styling and responsive layout
+- JavaScript – DOM manipulation for payment toggle
+
+#✨ Future Improvements#
+
+✅ Form submission with real backend (Django/Flask/Node)
+✅ Razorpay/Stripe/Paytm integration
+✅ Form validation & error handling
+✅ Dark mode theme
+
+#🤝 Contributing#
+Contributions are welcome! Fork this repo, make your changes, and open a pull request.
+
 
